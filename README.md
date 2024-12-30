@@ -1,4 +1,4 @@
-# IoT Destekli Akıllı Radar Sistemi
+# Akıllı Radar Sistemi (IoT) 
 
 Arduino ve ESP8266 ile geliştirilen bu sistem, ultrasonik sensör ve servo motor kullanarak 180 derecelik bir tarama yapar. Çevredeki nesnelerin mesafesini ölçer ve verileri gerçek zamanlı olarak IoT platformuna aktarır.
 
